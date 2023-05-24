@@ -1,0 +1,13 @@
+D:\Learning\VB\VBApp\VBApp\obj\Debug\GameApp.vbproj.AssemblyReference.cache
+D:\Learning\VB\VBApp\VBApp\obj\Debug\GameApp.vbproj.SuggestedBindingRedirects.cache
+D:\Learning\VB\VBApp\VBApp\obj\Debug\VBApp.frmGame.resources
+D:\Learning\VB\VBApp\VBApp\obj\Debug\VBApp.Resources.resources
+D:\Learning\VB\VBApp\VBApp\obj\Debug\GameApp.vbproj.GenerateResource.cache
+D:\Learning\VB\VBApp\VBApp\obj\Debug\GameApp.vbproj.CoreCompileInputs.cache
+D:\Learning\VB\VBApp\VBApp\bin\Debug\VBApp.exe.config
+D:\Learning\VB\VBApp\VBApp\bin\Debug\VBApp.exe
+D:\Learning\VB\VBApp\VBApp\bin\Debug\VBApp.pdb
+D:\Learning\VB\VBApp\VBApp\bin\Debug\VBApp.xml
+D:\Learning\VB\VBApp\VBApp\obj\Debug\VBApp.exe
+D:\Learning\VB\VBApp\VBApp\obj\Debug\VBApp.xml
+D:\Learning\VB\VBApp\VBApp\obj\Debug\VBApp.pdb
